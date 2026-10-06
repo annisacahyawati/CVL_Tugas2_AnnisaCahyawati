@@ -1,4 +1,4 @@
-# CVL_Tugas2_AnnisaCahyawati 🚀 Evaluasi Arsitektur YOLO Modern pada Deteksi Objek Kecil Berkelompok
+# 🚀 Evaluasi Arsitektur YOLO Modern pada Deteksi Objek Kecil Berkelompok
 
 Repositori ini berisi kode (Jupyter Notebook), berkas konfigurasi, laporan analisis, dan luaran evaluasi model untuk pemenuhan **Tugas Individu Mata Kuliah Computer Vision MKA** (Pengajar: Wahyono, S. Kom., Ph.D.). 
 
