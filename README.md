@@ -1,4 +1,4 @@
-# CVL Tugas 2 — Sliding Window + HOG
+# CVL Tugas 2 : Sliding Window + HOG
 
 Implementasi tugas Computer Vision MKA untuk **Opsi B — Sliding Window + HOG** dengan **Linear SVM** untuk pedestrian detection.
 
@@ -10,9 +10,9 @@ Eksperimen mengacu pada:
 
 Eksperimen ini melakukan partial replication studi parameter HOG untuk mengetahui pengaruh:
 
-- ukuran cell;
-- jumlah orientation bins;
-- block normalization;
+- ukuran cell
+- jumlah orientation bins
+- block normalization
 
 terhadap performa pedestrian detector.
 
@@ -38,7 +38,7 @@ Pembagian data pada eksperimen:
 | Test | 143 citra |
 | Ground-truth test | 245 pedestrian |
 
-Dataset ini digunakan sebagai alternatif karena INRIA Person tidak dapat diakses selama pelaksanaan eksperimen. Karena domain dataset berbeda, terutama adanya kondisi hazy/kabut, hasil tidak dianggap sebagai reproduksi langsung angka pada paper Dalal–Triggs.
+Dataset ini digunakan sebagai alternatif karena INRIA Person tidak dapat diakses selama pelaksanaan eksperimen. Karena domain dataset berbeda, terutama adanya kondisi hazy/kabut, hasil tidak dianggap sebagai reproduksi langsung angka pada paper Dalal and Triggs.
 
 ## Metode
 
